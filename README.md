@@ -2,7 +2,7 @@
 
 | Repository | Coverage | Code to Test Ratio | Time Execution Time | Badges |
 | --- | --- | --- | --- | --- |
-| [k1LoW/octocov](https://github.com/k1LoW/octocov) | 66.1% | 1:0.5 | 35s | ![k1LoW/octocov](https://raw.githubusercontent.com/k1LoW/octocovs-template/main/badges/k1LoW/octocov/coverage.svg) ![k1LoW/octocov](https://raw.githubusercontent.com/k1LoW/octocovs-template/main/badges/k1LoW/octocov/ratio.svg) ![k1LoW/octocov](https://raw.githubusercontent.com/k1LoW/octocovs-template/main/badges/k1LoW/octocov/time.svg) <details><summary>Copy status badge markdown</summary>```![Coverage](https://raw.githubusercontent.com/k1LoW/octocovs-template/main/badges/k1LoW/octocov/coverage.svg)```<br>```![Code to Test Ratio](https://raw.githubusercontent.com/k1LoW/octocovs-template/main/badges/k1LoW/octocov/ratio.svg)```<br>```![Test Execution Time](https://raw.githubusercontent.com/k1LoW/octocovs-template/main/badges/k1LoW/octocov/time.svg)```</details> |
+| [go-spectest/spectest](https://github.com/go-spectest/spectest) | 82.4% | - | 4s | ![go-spectest/spectest](https://github.com/go-spectest/octocovs-central-repo/blob/main//badges/go-spectest/spectest/coverage.svg?raw=true) ![go-spectest/spectest](https://github.com/go-spectest/octocovs-central-repo/blob/main//badges/go-spectest/spectest/time.svg?raw=true) <details><summary>Copy status badge markdown</summary>```![Coverage](https://github.com/go-spectest/octocovs-central-repo/blob/main//badges/go-spectest/spectest/coverage.svg?raw=true)```<br>```![Test Execution Time](https://github.com/go-spectest/octocovs-central-repo/blob/main//badges/go-spectest/spectest/time.svg?raw=true)```</details> |
 
 ---
 
