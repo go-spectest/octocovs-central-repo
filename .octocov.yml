@@ -2,6 +2,7 @@ central:
   reports:
     datastores:
       - artifact://go-spectest/spectest
+      - artifact://go-spectest/jsonschema
       # - artifact://owner/repo
       # - artifact://owner/other-repo
       # - artifact://owner/another-repo
