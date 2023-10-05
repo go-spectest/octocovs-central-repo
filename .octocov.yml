@@ -6,6 +6,7 @@ central:
       - artifact://go-spectest/plantuml
       - artifact://go-spectest/aws
       - artifact://go-spectest/jsonpath
+      - artifact://go-spectest/css-selector
       # - artifact://owner/repo
       # - artifact://owner/other-repo
       # - artifact://owner/another-repo
