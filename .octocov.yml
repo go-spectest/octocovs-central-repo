@@ -7,6 +7,7 @@ central:
       - artifact://go-spectest/aws
       - artifact://go-spectest/jsonpath
       - artifact://go-spectest/css-selector
+      - artifact://go-spectest/diff
       # - artifact://owner/repo
       # - artifact://owner/other-repo
       # - artifact://owner/another-repo
