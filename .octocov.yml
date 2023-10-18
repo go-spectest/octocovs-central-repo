@@ -2,12 +2,9 @@ central:
   reports:
     datastores:
       - artifact://go-spectest/spectest
-      - artifact://go-spectest/jsonschema
-      - artifact://go-spectest/plantuml
       - artifact://go-spectest/aws
-      - artifact://go-spectest/jsonpath
-      - artifact://go-spectest/css-selector
       - artifact://go-spectest/diff
+      - artifact://go-spectest/naraku
       # - artifact://owner/repo
       # - artifact://owner/other-repo
       # - artifact://owner/another-repo
