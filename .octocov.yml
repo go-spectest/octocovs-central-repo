@@ -5,9 +5,7 @@ central:
       - artifact://go-spectest/aws
       - artifact://go-spectest/diff
       - artifact://go-spectest/naraku
-      # - artifact://owner/repo
-      # - artifact://owner/other-repo
-      # - artifact://owner/another-repo
+      - artifact://go-spectest/imaging
   badges:
     datastores:
       - local://badges
