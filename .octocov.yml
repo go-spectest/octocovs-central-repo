@@ -6,6 +6,7 @@ central:
       - artifact://go-spectest/diff
       - artifact://go-spectest/naraku
       - artifact://go-spectest/imaging
+      - artifact://go-spectest/markdown
   badges:
     datastores:
       - local://badges
