@@ -7,6 +7,7 @@ central:
       - artifact://go-spectest/naraku
       - artifact://go-spectest/imaging
       - artifact://go-spectest/markdown
+      - artifact://go-spectest/mermaid
   badges:
     datastores:
       - local://badges
